@@ -1,0 +1,656 @@
+/* - Top Header */
+html[dir="rtl"] .top-header .top-left p + p {
+	margin-left: 0;
+	margin-right: 14px;
+}
+html[dir="rtl"] .top-header .top-left p i {
+	margin-left: 6px;
+	margin-right: 0;
+}
+html[dir="rtl"] .top-header .top-right > p {
+	border-left: none;
+    border-right: 1px solid #e0e0e0;
+	margin-left: 0;
+	margin-right: 20px;
+	padding-left: 0;
+	padding-right: 20px;
+}
+html[dir="rtl"] .top-header .top-right > p > i {
+	margin-left: 9px;
+	margin-right: 0;
+}
+html[dir="rtl"] .top-header .top-right ul {
+	padding-right: 0;
+}
+html[dir="rtl"] .search-box {
+	left: 15px;
+	right: auto;
+}
+
+/* - Footer */
+html[dir="rtl"] .top-footer .widget_social ul {
+	padding-right: 0;
+}
+html[dir="rtl"] .top-footer .widget_social ul li + li {
+	margin-left: 0;
+	margin-right: 8px;
+}
+html[dir="rtl"] .widget_contact > p {
+	padding-left: 0;
+	padding-right: 26px;
+}
+html[dir="rtl"] .widget_contact > p > i {
+	right: 0;
+	left: auto;
+}
+html[dir="rtl"] .top-footer .widget_latestposts .latest-content {
+	padding-left: 0;
+	padding-right: 90px;
+}
+html[dir="rtl"] .top-footer .widget_latestposts .latest-content > a {
+	left: auto;
+	right: 0;
+}
+html[dir="rtl"] .top-footer .widget_latestposts .latest-content > span > i {
+	margin-right: 0px;
+	margin-left: 9px;
+}
+html[dir="rtl"] .top-footer .tagcloud a {
+	margin-left: 4px;
+	margin-right: 0;
+}
+
+/* - Welcome Section */
+html[dir="rtl"] .welcome-section3 .section-header {
+	text-align: right;
+}
+html[dir="rtl"] .welcome-section3 .welcome-box {
+	padding-left: 0;
+	padding-right: 80px;
+}
+html[dir="rtl"] .welcome-section3 .welcome-box > i {
+	left: auto;
+	right: 0;
+}
+/* - Joinus Section */
+html[dir="rtl"] .joinus-section .section-header,
+html[dir="rtl"] .joinus-section2 .section-header {
+	text-align: right;
+}
+/* - Gallery */
+html[dir="rtl"] .gallery-category ul {
+	padding-right: 0;
+}
+html[dir="rtl"] .gallery-section3 .section-header,
+html[dir="rtl"] .gallery-section3 .gallery-category ul {
+	text-align: right;
+}
+/* - Latest Blog */
+html[dir="rtl"] .latest-blog .type-post .entry-meta,
+html[dir="rtl"] .type-post .entry-header .entry-meta > span {
+	float: right;
+}
+html[dir="rtl"] .type-post .entry-header .entry-meta > span {
+	margin-left: 15px;
+	margin-right: 0;
+}
+html[dir="rtl"] .type-post .entry-header .entry-meta > span:last-child {
+	margin-left: 0;
+}
+html[dir="rtl"] .type-post .entry-header .entry-meta > span > i {
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+/* - Latest Event Section */
+html[dir="rtl"] .event-content .post-event > span + span  {
+	margin-left: 0;
+	margin-right: 13px;
+}
+html[dir="rtl"] .event-content .post-event > span > i {
+	margin-left: 7px;
+	margin-right: 0;
+}
+html[dir="rtl"] .event-big .event-content .post-event > span > i {
+	margin-right: 7px;
+}
+html[dir="rtl"] .latest-event-section2 .event-content .post-event > span + span {
+	margin-left: 0;
+	margin-right: 13px;
+}
+html[dir="rtl"] .latest-event-section2 .section-header {
+	text-align: right;
+}
+html[dir="rtl"] .event-header .post-event > span {
+	margin-right: 0;
+	margin-left: 13px;
+}
+html[dir="rtl"] .event-header .post-event > span > i {
+	margin-left: 10px;
+	margin-right: 0;
+}
+html[dir="rtl"] .latest-event-section2 .event-box .event-content {
+	padding-left: 20px;
+	padding-right: 30px;
+}
+/* - Testimonial Section */
+html[dir="rtl"] .testimonial2-carousel .testi-box > p {
+	padding-left: 0;
+	padding-right: 42px;
+	text-align: right;
+}
+html[dir="rtl"] .testimonial2-carousel .testi-box > p::before {
+	left: auto;
+	right: 0;
+}
+
+/* - About Section */
+html[dir="rtl"] .about-content .section-header {
+	text-align: right;
+}
+html[dir="rtl"] .about-content > ul {
+	padding-right: 0;
+}
+html[dir="rtl"] .about-content > ul > li > i {
+	margin-left: 10px;
+	margin-right: 0;
+}
+html[dir="rtl"] .about-link > a {
+	margin-left: 20px;
+	margin-right: 0;
+}
+html[dir="rtl"] .about-link > a:last-child {
+	margin-left: 0;
+}
+
+/* - Our Mission Section */
+html[dir="rtl"] .our-mission-section .section-header {
+	text-align: right;
+}
+html[dir="rtl"] .mission-box {
+	padding-left: 0;
+	padding-right: 82px;
+}
+html[dir="rtl"] .mission-box > i {
+	left: auto;
+	right: 0;
+}
+
+/* - Skill Block */
+html[dir="rtl"] .skill-block .progress-bar {
+	float: right;
+}
+html[dir="rtl"] .skill-block .skill-progress-box h3 span {
+	left: auto;
+	right: 0;
+}
+
+html[dir="rtl"] .faq-block .panel-title > a {
+	padding-left: 20px;
+	padding-right: 70px;
+}
+html[dir="rtl"] .faq-block .panel-title > a::before {
+	left: auto;
+	right: 0;
+}
+html[dir="rtl"] .faq-block .panel-title > a::after {
+	left: auto;
+	right: 22px;
+}
+html[dir="rtl"] .work-section .faq-block .panel-title > a.collapsed {
+	padding-left: 0;
+	padding-right: 25px;
+}
+html[dir="rtl"] .work-section .faq-block .panel-title > a.collapsed::after {
+	left: auto;
+	right: 0;
+}
+html[dir="rtl"] .skill-block .skill-progress-box h3 span {
+	margin-left: 0;
+	margin-right: -5px;
+}
+
+/* - Services Section */
+html[dir="rtl"] .work-box {
+	padding-left: 0;
+	padding-right: 85px;
+}
+html[dir="rtl"] .work-box > i {
+	left: auto;
+	right: 0;
+}
+
+html[dir="rtl"] .dontation-page .section-header {
+	text-align: right;
+}
+html[dir="rtl"] .dontaiton-detail > ul {
+	padding-right: 0;
+}
+html[dir="rtl"] .dontaiton-detail > ul > li {
+	float: right;
+}
+html[dir="rtl"] .dontaiton-detail .other-value input[type="text"] {
+	margin-left: 0;
+	margin-right: 10px;
+}
+html[dir="rtl"] .signup-form > form input[type="checkbox"] {
+	margin-left: 10px;
+	margin-right: 0;
+}
+html[dir="rtl"] .error-content .error-content-box > p {
+	text-align: right;
+}
+
+html[dir="rtl"] .event-header > ul {
+	padding-right: 0;
+}
+html[dir="rtl"] .event-header > ul > li + li {
+	margin-left: 0;
+	margin-right: 10px;
+}
+html[dir="rtl"] .event-header .post-event {
+	float: right;
+}
+html[dir="rtl"] .event-header > ul {
+	float: left;
+}
+html[dir="rtl"] .event-content > ul {
+	padding-left: 0;
+	padding-right: 30px;
+}
+html[dir="rtl"] .event-content > ul > li {
+	padding-left: 0;
+	padding-right: 25px;
+}
+html[dir="rtl"] .event-content > ul > li::before {
+	left: auto;
+	right: 0;
+}
+
+html[dir="rtl"] .widget_eventdetails .eventdetails > p {
+	padding-left: 0;
+	padding-right: 130px;
+}
+html[dir="rtl"] .widget_eventdetails .eventdetails > p > i {
+	left: auto;
+	right: 0;
+}
+html[dir="rtl"] .widget_eventdetails .eventdetails > p > b {
+	left: auto;
+	right: 33px;
+}
+html[dir="rtl"] .widget_calendar td, 
+html[dir="rtl"] .widget_calendar th {
+	border-left: none;
+	border-right: 1px solid #888888;
+}
+html[dir="rtl"] .widget_calendar td:first-child,
+html[dir="rtl"] .widget_calendar th:first-child {
+	border-right: none;
+}
+
+html[dir="rtl"] .widget-area .widget-title h3 {
+	padding-left: 0;
+	padding-right: 14px;
+}
+html[dir="rtl"] .widget-area .widget-title h3::before {
+	border-left: none;
+	border-right: 2px solid #01c26e;
+}
+
+html[dir="rtl"] .widget-area .widget_categories ul {
+	padding-right: 0;
+}
+html[dir="rtl"] .widget-area .widget_categories ul > li > a {
+	padding-left: 0;
+	padding-right: 34px;
+}
+html[dir="rtl"] .widget-area .widget_categories ul > li > a > i {
+	margin-left: 23px;
+	margin-right: 0;
+}
+html[dir="rtl"] .widget-area .widget_recent_comment ul {
+	padding-right: 0;
+}
+html[dir="rtl"] .widget-area .widget_recent_comment ul > li > a {
+	padding-left: 0;
+	padding-right: 34px;
+}
+html[dir="rtl"] .widget-area .widget_recent_comment ul > li > a::before {
+	left: auto;
+	right: 0;
+}
+html[dir="rtl"] .widget-area .widget_recentposts .latest-content {
+	padding-left: 0;
+	padding-right: 90px;
+}
+html[dir="rtl"] .widget-area .widget_recentposts .latest-content > a {
+	right: 0;
+}
+html[dir="rtl"] .widget-area .widget_recentposts .latest-content > span > i {
+	margin-right: 0;
+	margin-left: 9px;
+}
+html[dir="rtl"] .widget-area .tagcloud a {
+	margin-right: 0;
+	margin-left: 4px;
+}
+
+html[dir="rtl"] .ow-pagination ul li:first-child > a > i {
+	float: left;
+	margin-top: 12px;
+}
+html[dir="rtl"] .ow-pagination ul li:last-child > a > i {
+	float: right;
+	margin-top: 12px;
+}
+
+html[dir="rtl"] .blog-fullwidth .type-post .entry-meta {
+	float: right;
+}
+
+html[dir="rtl"] article.type-post .entry-content blockquote {
+	padding-left: 20px;
+	padding-right: 40px;
+}
+html[dir="rtl"] article.type-post .entry-content blockquote::before {
+	left: auto;
+	right: 14px;
+}
+html[dir="rtl"] article.type-post .entry-content > ul.points-list {
+	padding-left: 0;
+	padding-right: 10px;
+}
+html[dir="rtl"] article.type-post .entry-content > ul.points-list > li > i {
+	margin-left: 15px;
+	margin-right: 0;
+}
+html[dir="rtl"] article.type-post .entry-content .blog-gallery > ul {
+	padding-right: 0;
+}
+html[dir="rtl"] article.type-post .entry-content ul.social {
+	float: left;
+	padding-right: 0;
+}
+html[dir="rtl"] article.type-post .entry-content ul.social li {
+	margin-left: 0;
+	margin-right: 7px;
+}
+html[dir="rtl"] .comment-list {
+	padding-right: 0;
+}
+html[dir="rtl"] .comment-list li {
+	padding-left: 0;
+	padding-right: 30px;
+}
+html[dir="rtl"] .comment-body {
+	padding-left: 0;
+	padding-right: 110px;
+}
+html[dir="rtl"] .comment-author .avatar {
+	margin-right: 0;
+	right: 0;
+}
+html[dir="rtl"] .comment-list .children {
+	margin-left: 0;
+	margin-right: 15px;
+	padding-left: 0;
+	padding-right: 15px;
+}
+html[dir="rtl"] .comment-list .children > li {
+	padding-left: 0;
+	padding-right: 0.5em;
+}
+html[dir="rtl"] .contact-detail > .detail-box {
+	padding-left: 0;
+	padding-right: 60px;
+}
+html[dir="rtl"] .contact-detail > .detail-box > i {
+	right: 0;
+}
+html[dir="rtl"] .contact-detail > ul {
+	padding-right: 0;
+}
+
+/*------------------------------------------------------------------
+	- Responsive
+-------------------------------------------------------------------*/
+/* - min-width: 992 */
+@media (min-width: 992px) {
+	html[dir="rtl"] .header_s .ownavigation .search,
+	html[dir="rtl"] .header_s .ownavigation .donation-btn {
+		float: left;
+		margin-left: 0;
+		margin-right: 32px;
+	}
+	
+	html[dir="rtl"] .header_s .ownavigation .navbar-header {
+		float: right;
+	}
+	html[dir="rtl"] .header_s .ownavigation .navbar-nav > li {
+		float: right;
+	}
+	
+	html[dir="rtl"] .header_s .ownavigation .navbar-nav li .dropdown-menu > li.dropdown > a::after {
+		content: "\f0d9";
+		left: 10px;
+		right: auto;
+	}
+	
+	html[dir="rtl"] .ownavigation ul > li > .dropdown-menu {
+		right: 0; 
+		text-align: right;
+	}
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child > .dropdown-menu,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) > .dropdown-menu {
+		left: 0; 
+	} 
+	html[dir="rtl"] .ownavigation .navbar-nav > li:first-child {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	
+	html[dir="rtl"] .ownavigation ul > li > .dropdown-menu,
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul,
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul ul ul,
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul ul ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul ul ul ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul ul ul ul ul ul ul ul ul ul	{
+		left: auto;
+	}
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul,
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul ul ul,
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul ul ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul ul ul ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul ul ul ul ul ul ul ul ul ul {
+		right: 100%;
+	}
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul ul,
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul ul ul ul,
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul ul ul ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul ul ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul ul ul ul ul ul ul ul ul {
+		left: 100%;
+	}
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul ul,
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul ul ul ul,
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation ul > li .dropdown-menu ul ul ul ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child > .dropdown-menu,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:last-child .dropdown-menu ul ul ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) > .dropdown-menu,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul ul ul ul ul ul ul,
+	html[dir="rtl"] .ownavigation .navbar-collapse > ul > li:nth-last-child(2) .dropdown-menu ul ul ul ul ul ul ul ul ul {
+		right: auto;
+	}
+	
+	html[dir="rtl"] .header_s2 .ownavigation .navbar-nav > li {
+		float: right;
+	}
+	
+	/* - Latest Event Section */
+	html[dir="rtl"] .latest-events .event-content .post-event > span > i {
+		margin-left: 0;
+		margin-right: 7px;
+	}
+	
+	html[dir="rtl"] .volunteer-detail > p {
+		padding-left: 180px;
+		padding-right: 0;
+	}
+}
+
+/* - min-width: 768 */
+@media (min-width: 768px) {
+	/* + Header */
+	html[dir="rtl"] .top-header .top-left {
+		float: right;
+	}
+	html[dir="rtl"] .top-header .top-right { 
+		float: left;
+	}
+	
+	html[dir="rtl"] .bottom-footer .container > i {
+		float: left;
+	}
+}
+
+/* - max-width: 991 */
+@media (max-width: 991px) {
+	/* - Top Header */
+	html[dir="rtl"] .header_s .ownavigation .search {
+		right: auto;
+		left: 93px;
+	}
+	html[dir="rtl"] .header_s .ownavigation .donation-btn { 
+		right: auto;
+		left: 123px;
+	}
+	html[dir="rtl"] .ownavigation .navbar-header {
+		float: none;
+	}
+	html[dir="rtl"] .ownavigation .navbar-header .navbar-brand {
+		float: right;
+	}
+	html[dir="rtl"] .ownavigation .navbar-toggle {
+		float: left;
+	}
+	html[dir="rtl"] .ownavigation #loginpanel {
+		right: auto;
+		left: 65px;
+	}
+	html[dir="rtl"] .ownavigation #slideit, 
+	html[dir="rtl"] .ownavigation #closeit {
+		right: 0;
+	}
+	html[dir="rtl"] .ownavigation .ddl-switch {
+		right: auto;
+		left: 0;
+	}
+	html[dir="rtl"] .header_s .submit-btn {
+		right: auto;
+		left: 103px;
+	}
+	/* - Nav Dropdown */
+	html[dir="rtl"] .ownavigation .dropdown-menu {
+		float: right;
+		padding-left: 0;
+		padding-right: 10px;
+		text-align: right;
+	}	
+	
+	html[dir="rtl"] footer .bottom-footer .ownavigation .navbar-toggle {
+		float: none;
+	}
+	
+	/* - Welcome Section */
+	html[dir="rtl"] .welcome-box {
+		padding-left: 0;
+		padding-right: 120px;
+	}
+	html[dir="rtl"] .welcome-box > i {
+		left: auto;
+		right: 0;
+	}
+	html[dir="rtl"] .welcome-box > h3::before {
+		background-image: url("../images/wel-icon.png");
+		right: -25px;
+		left: auto;
+	}
+	html[dir="rtl"] .welcome-box > h3::after {
+		left: auto;
+		right: -65px;
+	}
+	
+	/* - Latest Event */
+	html[dir="rtl"] .latest-events .event-thumb .event-box {
+		padding-left: 0;
+		padding-right: 109px;
+	}
+	html[dir="rtl"] .latest-events .event-thumb .event-box .event-cover {
+		left: auto;
+		right: 0;
+	}
+	html[dir="rtl"] .event-content .post-event > span > i {
+		margin-left: 7px;
+		margin-right: 0;
+	}
+	/* - Latest Event Section */
+	html[dir="rtl"] .event-content .post-event > span + span {
+		margin-left: 0;
+		margin-right: 13px;
+	}
+	
+	html[dir="rtl"] .comment-list .children {
+		padding-right: 0;
+		margin-right: 0;
+	}
+	html[dir="rtl"] .comment-list > li.depth-1 {
+		padding-right: 0;
+	}
+}
+
+/* - max-width: 767 */
+@media (max-width: 767px) {
+	html[dir="rtl"] .ownavigation #loginpanel {
+		left: 50px;
+	}
+}
